@@ -7,6 +7,7 @@ linear-gradient(115deg, transparent 75%, rgba(255,255,255,.8) 75%) 7px -15px,
 linear-gradient(245deg, transparent 75%, rgba(255,255,255,.8) 75%) 7px -15px,
 #36c;
 background-size: 15px 30px;
+color: #36c;
 }
 
 .container {
@@ -54,6 +55,7 @@ h2 {
 }
 p{
   padding-left: 25px;
+  color: #36c;
 }
 
 a {
@@ -74,3 +76,10 @@ a:hover {
   padding: 5px 0px;
   padding-inline-start: 0px;
   }
+.list-inline{
+  padding-inline-start: 0px;
+}
+
+.uo {
+  padding-inline-start: 20px;
+}
